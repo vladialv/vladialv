@@ -1,9 +1,9 @@
 <h2 align="center">Hi 🙋🏻‍♂️, I'm Vladimir Alvarado</h2>
 <h3 align="center">A passionate rookie developer from Venezuela 🌎</h3>
 <img align="right" alt="Hello World image" width="400px" src="https://th.bing.com/th/id/R.62c51b5838f3109aa3dbb05285e683b1?rik=%2bFMERgh8Uzdhmg&pid=ImgRaw&r=0">
-<br>
+<br><br>
 ⚙️ I'm currently studying MechE<br>🙌🏼 I'm looking to colaborate in fun community projects<br>🐍 I'm currently learning web dev<br>👀 I'm interested in web dev, AI and video games <br> 🔮 Karthus main on League of Legends
-<br><br><br><br>
+<br><br><br>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vladialv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vladimir-alvarado) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vladialv) 
