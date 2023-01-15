@@ -2,7 +2,7 @@
 <h3 align="center">A passionate rookie developer from Venezuela 🌎</h3>
 <img align="right" alt="Hello World image" width="400px" src="https://th.bing.com/th/id/R.62c51b5838f3109aa3dbb05285e683b1?rik=%2bFMERgh8Uzdhmg&pid=ImgRaw&r=0">
 <br>
-⚙️ I'm currently studying MechE<br>🙌🏼 I'm looking to colaborate in fun and challenging community projects<br>🐍 I'm currently learning web dev<br>👀 I'm interested in web dev, AI and video games <br> 🔮 Karthus main on League of Legends
+⚙️ I'm currently studying MechE<br>🙌🏼 I'm looking to colaborate in fun community projects<br>🐍 I'm currently learning web dev<br>👀 I'm interested in web dev, AI and video games <br> 🔮 Karthus main on League of Legends
 <br><br><br>
 
 ## 🌐 Socials
